@@ -1,0 +1,44 @@
+.hljs-attribute,
+.hljs-tag,
+.hljs-name,
+.hljs-class .hljs-title,
+.hljs-selector-id,
+.hljs-type,
+.hljs-params,
+.hljs-function {
+  color: hsla(288, 8.108%, 37%, 1);
+}
+
+.hljs-literal {
+  color: hsla(39, 81.176%, 57.5%, 1);
+}
+
+.hljs-comment,
+.hljs-quote {
+  color: hsla(296, 6.977%, 57%, 1);
+}
+
+.hljs-variable,
+.hljs-template-variable {
+  color: hsla(246, 65.398%, 71.1%, 1);
+}
+
+.hljs-link,
+.hljs-keyword,
+.hljs-built_in,
+.hljs-builtin-name {
+  color: hsla(212, 73.049%, 59.185%, 1);
+}
+
+.hljs-number {
+  color: hsla(152, 55.039%, 45.15%, 1);
+}
+
+.hljs-string {
+  color: hsla(12, 69.469%, 57.42%, 1);
+}
+
+.hljs-regexp,
+.hljs-symbol {
+  color: hsla(12, 66.667%, 48%, 1);
+}
